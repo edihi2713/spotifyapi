@@ -1,0 +1,30 @@
+body{
+	background-color: #f5f5f2;
+}
+.whitediv{
+	margin-left: auto;
+	margin-right: auto;
+	background: #FFF;
+	width: 30%;
+	padding:30px;
+}
+.audio{
+	margin-left: -20px;
+	background-color: #95B9C7;
+}
+.song{
+	margin-top: 15px;
+}
+.songname{
+	font-weight: bold;
+}
+span{
+	margin-left: -15px;
+}
+h1{
+	font-weight: bold;	
+}
+.imagesong{
+	width: 100px;
+	height: 100px;
+}
